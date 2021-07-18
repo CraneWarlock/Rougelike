@@ -1,0 +1,16 @@
+D:\C# repo\Rougelike\Rougelike\bin\Debug\net5.0\Rougelike.exe
+D:\C# repo\Rougelike\Rougelike\bin\Debug\net5.0\Rougelike.deps.json
+D:\C# repo\Rougelike\Rougelike\bin\Debug\net5.0\Rougelike.runtimeconfig.json
+D:\C# repo\Rougelike\Rougelike\bin\Debug\net5.0\Rougelike.runtimeconfig.dev.json
+D:\C# repo\Rougelike\Rougelike\bin\Debug\net5.0\Rougelike.dll
+D:\C# repo\Rougelike\Rougelike\bin\Debug\net5.0\ref\Rougelike.dll
+D:\C# repo\Rougelike\Rougelike\bin\Debug\net5.0\Rougelike.pdb
+D:\C# repo\Rougelike\Rougelike\obj\Debug\net5.0\Rougelike.csprojAssemblyReference.cache
+D:\C# repo\Rougelike\Rougelike\obj\Debug\net5.0\Rougelike.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# repo\Rougelike\Rougelike\obj\Debug\net5.0\Rougelike.AssemblyInfoInputs.cache
+D:\C# repo\Rougelike\Rougelike\obj\Debug\net5.0\Rougelike.AssemblyInfo.cs
+D:\C# repo\Rougelike\Rougelike\obj\Debug\net5.0\Rougelike.csproj.CoreCompileInputs.cache
+D:\C# repo\Rougelike\Rougelike\obj\Debug\net5.0\Rougelike.dll
+D:\C# repo\Rougelike\Rougelike\obj\Debug\net5.0\ref\Rougelike.dll
+D:\C# repo\Rougelike\Rougelike\obj\Debug\net5.0\Rougelike.pdb
+D:\C# repo\Rougelike\Rougelike\obj\Debug\net5.0\Rougelike.genruntimeconfig.cache
